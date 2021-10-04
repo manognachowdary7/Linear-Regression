@@ -2,6 +2,7 @@
 This dataset is downloaded from kaggle for analysis of BMI
 # Observations
 Given dataset contains 5 columns = (Sex, Age, Height(Inches), Weight(Pounds), BMI)
+
 Columns with na values are dropped and the column names 'Height(Inches)' and 'Weight(Pounds)' are Renamed with 'Height' and 'Weight' and in the column 'Sex' Female and Male are replaced with 1 and 0
 (Female = 1, Male = 0).
 
