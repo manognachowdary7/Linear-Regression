@@ -8,6 +8,6 @@ Columns with na values are dropped and the column names 'Height(Inches)' and 'We
 
 Training and Testing the data has done here in the Training data x is taken 'Age', 'Height', 'Weight' and in the Testing data y is taken 'BMI' and applied Linear regression algorithm to Predict BMI Values.
 
-Mean Absolute Error is 0.055767325467586
+Mean Absolute Error is 0.055770665082581196
 
-r2 score is 0.9967333351292881
+r2 score is 0.9967331315655572
